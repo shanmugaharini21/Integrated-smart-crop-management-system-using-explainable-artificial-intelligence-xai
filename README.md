@@ -64,10 +64,15 @@ Output Layer → Dashboard | Insights | Reports
 # Tech Stack
 
 AI / Data Science: Python, Scikit-learn, XGBoost, SHAP
+
 NLP: TextBlob
+
 Frontend: React.js
+
 Backend: Flask (REST APIs)
+
 Database: MySQL
+
 Integration: Weather APIs, OCR (pdfplumber)
 
 
