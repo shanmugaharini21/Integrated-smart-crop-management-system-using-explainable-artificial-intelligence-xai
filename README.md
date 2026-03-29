@@ -70,6 +70,19 @@ Backend: Flask (REST APIs)
 Database: MySQL
 Integration: Weather APIs, OCR (pdfplumber)
 
+
+# Installation
+```bash
+git clone <https://github.com/shanmugaharini21/Integrated-smart-crop-management-system-using-explainable-artificial-intelligence-xai>
+cd guardian-ai
+
+pip install -r requirements.txt
+uvicorn main:app --reload
+
+npm install
+npm start
+```
+
 # Screenshots
 
 <table align="center">
