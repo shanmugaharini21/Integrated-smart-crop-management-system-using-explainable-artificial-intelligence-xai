@@ -69,6 +69,7 @@ Integration: Weather APIs, OCR (pdfplumber)
   </tr>
 </table>
 
+
 # Results
 🔹Accuracy: ~92% (XGBoost)
 🔹Improved performance through multimodal data fusion
