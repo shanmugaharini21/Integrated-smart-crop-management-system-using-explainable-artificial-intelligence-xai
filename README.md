@@ -59,15 +59,16 @@ Integration: Weather APIs, OCR (pdfplumber)
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/80b8cfed-d19a-4f0b-8475-1d2d5665c01d" width="500"/><br>
+      <img src="https://github.com/user-attachments/assets/e22959f0-df5f-442f-a0d3-3b66aeccb508" width="480"/><br>
       <em>Field Creation Interface</em>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/58355ff7-540d-442b-a91c-3553397e528b" width="500"/><br>
-      <em>Dashboard & Data Entry</em>
+      <img src="https://github.com/user-attachments/assets/65d4d553-b329-40b3-8840-b91ebfcfe720" width="480"/><br>
+      <em>Dashboard with Soil, Weather & AI Insights</em>
     </td>
   </tr>
 </table>
+
 
 
 # Results
