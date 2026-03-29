@@ -55,6 +55,20 @@ Backend: Flask (REST APIs)
 Database: MySQL
 Integration: Weather APIs, OCR (pdfplumber)
 
+# Screenshots
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/80b8cfed-d19a-4f0b-8475-1d2d5665c01d" width="500"/><br>
+      <em>Field Creation Interface</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/58355ff7-540d-442b-a91c-3553397e528b" width="500"/><br>
+      <em>Dashboard & Data Entry</em>
+    </td>
+  </tr>
+</table>
+
 # Results
 🔹Accuracy: ~92% (XGBoost)
 🔹Improved performance through multimodal data fusion
