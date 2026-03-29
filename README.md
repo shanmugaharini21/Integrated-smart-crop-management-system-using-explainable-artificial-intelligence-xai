@@ -73,12 +73,17 @@ Integration: Weather APIs, OCR (pdfplumber)
 
 # Installation
 ```bash
-git clone <https://github.com/shanmugaharini21/Integrated-smart-crop-management-system-using-explainable-artificial-intelligence-xai>
-cd guardian-ai
+# Clone the repository
+git clone https://github.com/shanmugaharini21/Integrated-smart-crop-management-system-using-explainable-artificial-intelligence-xai
 
+# Navigate to project folder
+cd Integrated-smart-crop-management-system-using-explainable-artificial-intelligence-xai
+
+# Backend setup
 pip install -r requirements.txt
 uvicorn main:app --reload
 
+# Frontend setup
 npm install
 npm start
 ```
